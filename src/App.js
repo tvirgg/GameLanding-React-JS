@@ -119,11 +119,11 @@ function App() {
                 </div>
               </div>
               <p className="footer_block__left__p">
-                Only 7777 <br></br>
+                Only We <br></br>
                 Only Kingnight
               </p>
               <p className="footer_block__left__p__bottom">
-                ©2025ᅠKingnight<br></br> All rights reserved
+                ©2024ᅠKingnight<br></br> All rights reserved
               </p>
             </div>
             <div className="footer_block__right">
