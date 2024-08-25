@@ -45,8 +45,8 @@ function App() {
               <div className="logo_text header__logo_text headeronlylogo">
                 <p>King</p> <p className="headeronlylogo_end"></p>
               </div>
-              <div className="logo_gear header_logo_gear">
-              </div>
+              {/* <div className="logo_gear header_logo_gear">
+              </div> */}
             </div>
             <div className="header_right">
               <a className="header_a" href="https://discord.gg/YjQtpSn2f4">
