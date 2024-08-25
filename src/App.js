@@ -43,7 +43,7 @@ function App() {
           <div className="header">
             <div className="logo">
               <div className="logo_text header__logo_text headeronlylogo">
-                <p>Kingnight</p> <p className="headeronlylogo_end"></p>
+                <p>King</p> <p className="headeronlylogo_end"></p>
               </div>
               <div className="logo_gear header_logo_gear">
               </div>
@@ -113,7 +113,7 @@ function App() {
           <div className="footer_block">
             <div className="footer_block__left">
               <div className="logo footer_logo">
-                <div className="logo_text">Kingnight
+                <div className="logo_text">King
                 </div>
                 {/* <div className="logo_gear logo_gear__footer">
                 </div> */}
