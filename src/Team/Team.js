@@ -50,7 +50,7 @@ const Team = () => {
                                     <div className="team_item__top__left">
                                         <img src={team_3} alt="" className="team_item__top_img"/>
                                         <h2 className="team_name">
-                                            Andrey Blakil
+                                            John Miller
                                         </h2>
                                     </div>
                                     <a className="team__container_right" href="https://www.artstation.com/blakil">
